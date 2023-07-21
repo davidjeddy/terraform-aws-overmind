@@ -1,6 +1,6 @@
 # Overmind Terraform module by David J Eddy
 
-![Overmind](imgs/overmind.png)
+![Overmind](https://raw.githubusercontent.com/davidjeddy/terraform-aws-overmind/main/imgs/overmind.png)
 
 - [Overmind Terraform module by David J Eddy](#overmind-terraform-module-by-david-j-eddy)
   - [Description](#description)
