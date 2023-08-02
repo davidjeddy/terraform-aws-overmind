@@ -19,7 +19,7 @@ Following the [Overmind getting-started](https://overmind.tech/resources/getting
 ```hcl
 module "overmind" {
   source  = "davidjeddy/overmind/aws"
-  version = "0.2.1"
+  version = "1.0.1"
 }
 ```
 
