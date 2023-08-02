@@ -18,8 +18,8 @@ Following the [Overmind getting-started](https://overmind.tech/resources/getting
 
 ```hcl
 module "overmind" {
-  source = "terraform-aws-modules/davidjeddy/overmind"
-  version = "1.0.0"
+  source  = "davidjeddy/overmind/aws"
+  version = "0.2.1"
 }
 ```
 
